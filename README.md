@@ -4,7 +4,7 @@
 
 ### A
 
-* [P11](https://hackmd.io/@LMChen/rk8zdM_oo)   
+* [P11](https://hackmd.io/@LMChen/rk8zdM_oo) : 5/21
 * [P12](https://hackmd.io/@LMChen/r1uVZocos)
 * [P14](https://hackmd.io/@LMChen/ryYZD-3oj)
 * [P16](https://hackmd.io/@LMChen/HkR60ARoj)
@@ -14,7 +14,7 @@
 
 ### B
 
-* [P05](https://hackmd.io/@LMChen/H1vfF9fsi)   
+* [P05](https://hackmd.io/@LMChen/H1vfF9fsi) : 5/21
 * [P07](https://hackmd.io/@LMChen/Hkx3hCVos)
 * [P08](https://hackmd.io/@LMChen/ryLMlqroo)
 * [P09](https://hackmd.io/@LMChen/SJttSkDjj)
@@ -25,7 +25,7 @@
 ### C
 
 * [P01](https://hackmd.io/@LMChen/S1VB8mRqs) : 5/19
-* [P02](https://hackmd.io/@LMChen/B1x37Oris)
+* [P02](https://hackmd.io/@LMChen/B1x37Oris) : 5/21
 * [P03](https://hackmd.io/@LMChen/BJ-NtLCqs)
 * [P04](https://hackmd.io/@LMChen/B1QVUOroo)
 * [P06](https://hackmd.io/@LMChen/HJxEduBos)

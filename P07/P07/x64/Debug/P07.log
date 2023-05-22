@@ -1,0 +1,3 @@
+﻿  P07.cpp
+C:\Users\User\Desktop\TKU\COMPUTER-FIRMWARE-DESIGIN-LAB-git\P07\P07\P07.cpp(49,46): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  P07.vcxproj -> C:\Users\User\Desktop\TKU\COMPUTER-FIRMWARE-DESIGIN-LAB-git\P07\x64\Debug\P07.exe

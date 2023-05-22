@@ -6,7 +6,7 @@
 
 * [P11](https://hackmd.io/@LMChen/rk8zdM_oo) : 5/21
 * [P12](https://hackmd.io/@LMChen/r1uVZocos) : 5/22
-* [P14](https://hackmd.io/@LMChen/ryYZD-3oj) : 5/21 、 5/22
+* [P14](https://hackmd.io/@LMChen/ryYZD-3oj) : 5/21(未寫 僅看)
 * [P16](https://hackmd.io/@LMChen/HkR60ARoj)
 * [P17](https://hackmd.io/@LMChen/BJPk-Hb2o)
 * [P18](https://hackmd.io/@LMChen/Bkqu-rZnj)

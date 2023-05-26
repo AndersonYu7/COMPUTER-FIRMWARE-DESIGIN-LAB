@@ -30,3 +30,12 @@
 * [P04](https://hackmd.io/@LMChen/B1QVUOroo) : 5/21、 5/22 (finish)
 * [P06](https://hackmd.io/@LMChen/HJxEduBos) : 5/23 (finish)
 * [P10](https://hackmd.io/@LMChen/By0Hl_Dis) : 5/23 (finish)
+
+## 考試:
+
+### 5/26 : 
+
+* A : P16
+* B : P13
+* C : P01
+
